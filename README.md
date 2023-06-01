@@ -1,4 +1,9 @@
 # Base layout template with Gulp, SCSS and Stylelint
-1. Create a repo using this template
-1. Replace `<your_account>` and `<repo_name>` with your Github username and the new repo name
+
+The landing was developed on the basis of the layout in Figma. 
+The following methods were used: 
+  - BEM methodology;
+  - Grid container;
+  - Media queries.
+
     - [DEMO LINK](https://nata-prog123.github.io/Kickstarter1/)
