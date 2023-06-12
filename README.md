@@ -1,7 +1,8 @@
-# Base layout template with Gulp, SCSS and Stylelint
+# **Base layout template with Gulp, SCSS and Stylelint.*
 
 The landing was developed on the basis of the layout in Figma. 
-The following methods were used: 
+
+## The following methods were used: 
   - HTML;
   - JS;
   - SCSS - a preprocessor for CSS that extends its capabilities with features like variables, mixins, and nested styles;
@@ -11,4 +12,4 @@ The following methods were used:
   - @import, @font-face;
   - Media queries.
 
-    - [DEMO LINK](https://nata-prog123.github.io/Kickstarter1/)
+  ## [DEMO LINK](https://NataliiaRodoman.github.io/Kickstarter1/)
