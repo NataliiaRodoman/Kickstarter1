@@ -1,4 +1,4 @@
-# **Base layout template with Gulp, SCSS and Stylelint.*
+# **Base layout template with Gulp, SCSS and Stylelint.**
 
 The landing was developed on the basis of the layout in Figma. 
 
